@@ -1,0 +1,29 @@
+## Configurações Iniciais Git ##
+
+# Usuário:
+
+git config --global user.name "Nome do Usuário"
+
+# Email:
+
+git config --global user.email "Email do Usuário" 
+
+# Diretório de Tabalho (Master):
+
+git init . (Executar Dentro da Pasta)
+
+# Ver Status:
+
+git status
+
+#Adicionar Arquivo para Rastreamento:
+
+git add nome do arquivo
+
+# Gravar alteração no repositório (Fazer Commit)
+
+git commit -m "Mensagem para arquivo Criado"
+
+# Ver log:
+
+git log
